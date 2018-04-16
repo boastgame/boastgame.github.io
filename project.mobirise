@@ -35,7 +35,9 @@
     "uniqCompNum": 18,
     "versionPublish": "4.6.7",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/mtpj9hos-400x400-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
